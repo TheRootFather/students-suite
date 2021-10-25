@@ -2,6 +2,23 @@
 
 A package list made for students, specifically computer-science students.
 
+
+
+# Workflow
+
+| Task           | App                          |
+| -------------- | ---------------------------- |
+| Note Taking    | Joplin, Xournal ++, MarkText |
+| Online Lessons | Zoom, Microsoft Teams        |
+| Office Suite   | WPS Office                   |
+| Coding         | VS Code, Kate, neovim        |
+| Logic Circuits | Logisim                      |
+| Reading        | Calibre, Evince              |
+
+Tip: we advise you to use a cloud storing service (Google Drive, OneDrive, Dropbox, MEGA, nexctloud...) in order to sync your notes to every device you have.
+
+
+
 # Packages
 
 ## Microsoft Teams & Zoom
@@ -43,8 +60,6 @@ MarkText is a simple and elegant open-source markdown editor that focused on spe
 ## Calibre
 
 Calibre is a cross-platform open-source suite of e-book software. Calibre supports organizing existing e-books into virtual libraries, displaying, editing, creating and converting e-books, as well as syncing e-books with a variety of e-readers. Editing books is supported for [EPUB](https://en.wikipedia.org/wiki/EPUB "EPUB") and [AZW3](https://en.wikipedia.org/wiki/Kindle_File_Format "Kindle File Format") formats. Books in other formats like MOBI must first be converted to those formats, if they are to be edited.
-
-
 
 ## Evince
 
